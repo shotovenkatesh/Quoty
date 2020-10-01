@@ -1,0 +1,6 @@
+framework module Pods_Quoty {
+  umbrella header "Pods-Quoty-umbrella.h"
+
+  export *
+  module * { export * }
+}
